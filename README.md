@@ -2,9 +2,7 @@
 This site provides the following supplementary information
  * Human SCS Application,
  * SARS-CoV2 SCS Application,
- * Supplementary Methods,
- * Supplementary References,
- * Supplementary Tables
+ * Supplementary Data
 
 ## Human SCS Application
 You can use the application easily with your computer or the Google Colaboratory & the Google Drive.
