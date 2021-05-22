@@ -45,4 +45,8 @@ You can use the application easily with your computer or the Google Colaboratory
 Under construction
 
 ## Supplementary Data
-
+We provide the following supplementary data as Excel files in the repository:
+1. Self-nonself assignment and Nonself extraction,
+2. Nonself clusters,
+3. SARS-CoV-2 variant proteomes,
+4. Spike mutations
