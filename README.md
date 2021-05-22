@@ -1,4 +1,10 @@
-# Supplimentary Information for Article
+# Supplementary Information for Article .....
+This site provides the following supplimentary information
+ * Human SCS Application,
+ * SARS-CoV2 SCS Application,
+ * Supplementary Methods,
+ * Supplementary References,
+ * Supplementary Tables
 
 ## Human SCS Application
 You can use the application easily with your computer or the google colaboraty & google drive.
@@ -18,7 +24,7 @@ You can use the application easily with your computer or the google colaboraty &
     hscs.showBasicInformation()
 ````
 
-### How to use Human SCS Application with Coogle Colaboratory
+### How to use Human SCS Application with Google Colaboratory
 1. Download Human_SCS_Application and Protain Datasets
   * locate Human_SCS_Application.py at your google drive directry and Protain datasets at ./ncbi_dataset/protain.aa 
 2. Open a new notebook in your google colaboratory and mount your google drive directory
@@ -38,6 +44,8 @@ You can use the application easily with your computer or the google colaboraty &
 
 Under construction
 
-## Aupplementary Methods
+## Supplementary Methods
 
-## Additional Supplementary Information 
+## Supplementary References
+
+## Supplementary Tables 
