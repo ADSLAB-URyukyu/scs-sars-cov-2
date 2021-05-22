@@ -1,5 +1,5 @@
 # Supplementary Information for Article .....
-This site provides the following supplimentary information
+This site provides the following supplementary information
  * Human SCS Application,
  * SARS-CoV2 SCS Application,
  * Supplementary Methods,
@@ -7,13 +7,13 @@ This site provides the following supplimentary information
  * Supplementary Tables
 
 ## Human SCS Application
-You can use the application easily with your computer or the google colaboraty & google drive.
+You can use the application easily with your computer or the Google Colaboratory & the Google Drive.
 
 ### How to use Human SCS Application with your computer
-1. Download Human_SCS_Application and Protain Datasets
-  * and then locate Human_SCS_Application.py in the current directory and Protain data as ./ncbi_dataset/protain.aa  
+1. Download Human_SCS_Application and Protein Datasets
+  * and then locate Human_SCS_Application.py in the current directory and Protein data as ./ncbi_dataset/protein.aa  
 2. Run jupyter notebook at your current directory
-3. Start to use the application with importing Human_SCS_Application  
+3. Start to use the application by importing Human_SCS_Application  
 ````python:
     import  Human_SCS_Application as hscs  
     hscs.initializeFromScsDataset()  
@@ -25,10 +25,10 @@ You can use the application easily with your computer or the google colaboraty &
 ````
 
 ### How to use Human SCS Application with Google Colaboratory
-1. Download Human_SCS_Application and Protain Datasets
-  * locate Human_SCS_Application.py at your google drive directry and Protain datasets at ./ncbi_dataset/protain.aa 
-2. Open a new notebook in your google colaboratory and mount your google drive directory
-3. Start to use the application with importing Human_SCS_Application  
+1. Download Human_SCS_Application and Protein Datasets
+  * locate Human_SCS_Application.py at the Google Drive directory and Protein datasets at ./ncbi_dataset/protein.aa 
+2. Open a new notebook in the Google Colab and mount the Google Drive directory
+3. Start to use the application by importing Human_SCS_Application  
 ````python:
     import  Human_SCS_Application as hscs  
     hscs.initializeFromScsDataset()  
@@ -44,8 +44,5 @@ You can use the application easily with your computer or the google colaboraty &
 
 Under construction
 
-## Supplementary Methods
+## Supplementary Data
 
-## Supplementary References
-
-## Supplementary Tables 
