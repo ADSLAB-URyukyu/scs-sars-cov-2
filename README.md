@@ -1,5 +1,6 @@
-## Supplimentary Information Site for SCS Application
+# Supplimentary Information for Article
 
+## Human SCS Application
 You can use the application easily with your computer or the google colaboraty & google drive.
 
 ### How to use Human SCS Application with your computer
@@ -10,11 +11,13 @@ You can use the application easily with your computer or the google colaboraty &
 ````python:
     import  Human_SCS_Application as hscs  
     hscs.initializeFromScsDataset()  
-    -- You can set all data to use the application   
+    # You can set all data to use the application   
     hscs.menu()
-    -- You can see the command list
+    # You can see the command list
+    # For example, to show the basic information of the dataset
     hscs.showBasicInformation()
 ````
+
 ### How to use Human SCS Application with Coogle Colaboratory
 1. Download Human_SCS_Application and Protain Datasets
   * locate Human_SCS_Application.py at your google drive directry and Protain datasets at ./ncbi_dataset/protain.aa 
@@ -23,13 +26,18 @@ You can use the application easily with your computer or the google colaboraty &
 ````python:
     import  Human_SCS_Application as hscs  
     hscs.initializeFromScsDataset()  
-    -- You can set all data to use the application   
+    # You can set all data to use the application   
     hscs.menu()
-    -- You can see the command list
+    # You can see the command list
+    # For example, to show the basic information of the dataset
     hscs.showBasicInformation()
 ````
 
-    
 
+## SARS-CoV-2 SCS Application    
 
+Under construction
 
+## Aupplementary Methods
+
+## Additional Supplementary Information 
