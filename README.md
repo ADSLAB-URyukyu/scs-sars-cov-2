@@ -1,6 +1,11 @@
 
 ## About
-This site is for Supplementary Information for Article ''XXXXXXX''
+This site is for Supplementary Information for Article *Self and nonself short constituent sequences of amino acids in the SARS-CoV-2 proteome for vaccine development* by Joji M. Otaki<sup>1</sup>, Wataru Nakasone<sup>2</sup>, Morikazu Nakamura<sup>2</sup>
+
+1 The BCPH Unit of Molecular Physiology, Department of Chemistry, Biology and Marine Science, University of the Ryukyus, Okinawa 903-0213, Japan
+
+2 Computer Science and Intelligent Systems Unit, Department of Engineering, Faculty of Engineering, University of the Ryukyus, Okinawa 903-0213, Japan
+
 
 This site provides the following supplementary information
  * Source Codes for Human SCS Analysis,
