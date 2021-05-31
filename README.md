@@ -1,4 +1,4 @@
-# Supplementary Information for Article ''Self and nonself short constituent sequences of amino acids in the SARS-CoV-2 proteomes for vaccine development''
+
 This site provides the following supplementary information
  * Source Codes for Human SCS Analysis,
  * Source Codes for SARS-CoV2 SCS Analysis,
@@ -41,19 +41,19 @@ You can use the Python code easily with your computer or the Google Colab & Goog
 ## Source Codes for SARS-CoV-2 SCS Analysis 
 0. Setup an environment on your computer to compile c++ source codes. Commandline tools are required. For linux and MacOS, the standard terminal tool is enough. For Windows 10 users, we recommend installing WSL or WSL2. 
 1. Download SARS-CoV-2_SCS_Application and Protein Datasets to a working directory.
-2. Run make command at the working directory to build the software
+2. Run _make_ command at the working directory to build the software:
 ````console
     yourPC:~$ make
 ````
-3. Instead of make command, you can compile directly to bilud the software
+3. Instead of the _make_ command, you can compile the source codes directly to bilud the software:
 ````console
     yourPC:~$ g++ -std=c++17 -stdlib=libc++ -o covid-scs-analysis main.cpp calculation.cpp transform.cpp
 ````
-4. You can run the application software by
+4. You can run the application software with input data located at the directory ./ncbi_dataset by the following command:
 ````console
     yourPC:~$ ./covid-scs-analysis
 ````
-5. The output files are generated under the output directory
+5. The output files are generated under the output directory ./SARS-CoV-2_SCS_Analysis as csv files.
 
 ## Supplementary Data
 We provide the following supplementary data as Excel files: [Supplementary Data](https://github.com/ADSLAB-URyukyu/scs-sars-cov-2/tree/main/Supplementary%20Data):
