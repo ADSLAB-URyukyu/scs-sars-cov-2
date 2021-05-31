@@ -1,8 +1,12 @@
 
+## About
+This site is for Supplementary Information for Article ''XXXXXXX''
+
 This site provides the following supplementary information
  * Source Codes for Human SCS Analysis,
  * Source Codes for SARS-CoV2 SCS Analysis,
  * Supplementary Data
+
 
 ## Source Codes for Human SCS Analysis
 You can use the Python code easily with your computer or the Google Colab & Google Drive.
