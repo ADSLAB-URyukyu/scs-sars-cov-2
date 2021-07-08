@@ -32,8 +32,8 @@ You can use the Python code easily with your computer or the Google Colab & Goog
 ````
 
 ### How to use Human SCS Analysis Program with Google Colab
-1. Download Human_SCS_Application and Protein Datasets
-  * locate Human_SCS_Application.py at the Google Drive directory and Protein datasets at ./ncbi_dataset/protein.faa 
+1. Download the source code and Protein Datasets
+  * locate Human_SCS_Analysis.py at the Google Drive directory and Protein datasets at ./ncbi_dataset/protein.faa 
 2. Open a new notebook in the Google Colab and mount the Google Drive directory
 3. Start to use the application by importing Human_SCS_Application  
 ````python:
