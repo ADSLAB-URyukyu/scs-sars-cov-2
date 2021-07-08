@@ -1039,7 +1039,7 @@ def getAvailability(scsLength, scsAvailability, aminoSeq, save = 'n'):
 
 
 
-def initializeFromProtainDataset():
+def initializeFromProteinDataset():
 
     global scsLength3
     global scsLength4

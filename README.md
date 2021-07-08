@@ -23,7 +23,7 @@ You can use the Python code easily with your computer or the Google Colab & Goog
 3. Start to use the program by importing Human_SCS_Application  
 ````python:
     import  Human_SCS_Analysis as hscs  
-    hscs.initializeFromScsDataset()  
+    hscs.initializeFromProteinDataset() 
     # You can set all data to use the application   
     hscs.menu()
     # You can see the command list
@@ -37,8 +37,8 @@ You can use the Python code easily with your computer or the Google Colab & Goog
 2. Open a new notebook in the Google Colab and mount the Google Drive directory
 3. Start to use the application by importing Human_SCS_Application  
 ````python:
-    import  Human_SCS_Application as hscs  
-    hscs.initializeFromScsDataset()  
+    import  Human_SCS_Analysis as hscs   
+    hscs.initializeFromProteinDataset()
     # You can set all data to use the application   
     hscs.menu()
     # You can see the command list
