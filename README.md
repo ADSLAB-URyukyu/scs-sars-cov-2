@@ -10,7 +10,7 @@ This site is for Supplementary Information for Article *Self and nonself short c
 This site provides the following supplementary information
  * Source Codes for Human SCS Analysis,
  * Source Codes for SARS-CoV2 SCS Analysis,
- * Supplementary Data
+ * Additional Data
 
 
 ## Source Codes for Human SCS Analysis
@@ -20,7 +20,7 @@ You can use the Python code easily with your computer or the Google Colab & Goog
 1. Download the source code and Protein Datasets
   * and then locate Human_SCS_Analysis.py in the current directory and Protein data as ./ncbi_dataset/protein.faa  
 2. Run jupyter notebook at your current directory
-3. Start to use the program by importing Human_SCS_Application  
+3. Start to use the program by importing Human_SCS_Analysis  
 ````python:
     import  Human_SCS_Analysis as hscs  
     hscs.initializeFromProteinDataset() 
@@ -35,7 +35,7 @@ You can use the Python code easily with your computer or the Google Colab & Goog
 1. Download the source code and Protein Datasets
   * locate Human_SCS_Analysis.py at the Google Drive directory and Protein datasets at ./ncbi_dataset/protein.faa 
 2. Open a new notebook in the Google Colab and mount the Google Drive directory
-3. Start to use the application by importing Human_SCS_Application  
+3. Start to use the application by importing Human_SCS_Analysis  
 ````python:
     import  Human_SCS_Analysis as hscs   
     hscs.initializeFromProteinDataset()
@@ -64,8 +64,8 @@ You can use the Python code easily with your computer or the Google Colab & Goog
 ````
 5. The output files are generated under the output directory ./SARS-CoV-2_SCS_Analysis as csv files.
 
-## Supplementary Data
-We provide the following supplementary data as Excel files: [Supplementary Data](https://github.com/ADSLAB-URyukyu/scs-sars-cov-2/tree/main/Supplementary%20Data):
+## Additional Data
+We provide the following additional data as Excel files: [Additional Data](https://github.com/ADSLAB-URyukyu/scs-sars-cov-2/tree/main/Additional%20Data):
 1. Self-nonself assignment and Nonself extraction,
 2. Nonself clusters,
 3. SARS-CoV-2 variant proteomes,
